@@ -1,0 +1,2125 @@
+
+
+
+:::: SUN
+
+ - sun
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: MOON
+
+ - moon
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: CHAR
+
+ - survivor
+	by Wessexstock
+	"James%20The%20Traveller%20-%20By%20Wessexstock"
+
+
+
+
+:::: CHICKEN
+
+ - chicken
+	by Wessexstock
+	"High By SpAcE_mOnKeY126"
+
+
+
+
+:::: COW
+
+ - cow
+	by Draktonius853
+	"By%20Noodaa"
+
+
+
+
+:::: CREEPER
+
+ - creeper
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: GHAST
+
+ - ghast
+	by Wessexstock
+	"By%20AwesomeSauceUK"
+
+
+
+
+:::: GHAST_FIRE
+
+ - ghastFiring
+	by Wessexstock
+	"By%20AwesomeSauceUK"
+
+
+
+
+:::: PIG
+
+ - pig
+	by Wessexstock
+	"Friendly%20Eyes%20By%20Aqua_Kaz"
+
+
+
+
+:::: PIGMAN
+
+ - pigMan
+	by Wessexstock
+	"By%20AwesomeSauceUK"
+
+
+
+
+:::: PIGZOMBIE
+
+ - pigZombie
+	by Wessexstock
+	"Red%20Eyes%20-%20Edit%20by%20Darlot"
+
+
+
+
+:::: SADDLE
+
+ - saddle
+	by Duruznik
+	"By Handsome_Dan"
+
+
+
+
+:::: SHEEP
+
+ - sheep
+	by Wessexstock
+	"Friendly Eyes edit by HienkyakuX // Aqua_KaZ"
+
+
+
+
+:::: SHEEP_FUR
+
+ - sheepFur
+	by Wessexstock
+	"By%20smuecke"
+
+
+
+
+:::: SKELETON
+
+ - skeleton
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: SLIME
+
+ - slime
+	by Wessexstock
+	"High%20-%20By%20Nooda"
+
+
+
+
+:::: SPIDER
+
+ - spider
+	by Wessexstock
+	"Lower contrast alt by  Raziel_DSM // Duru"
+
+
+
+
+:::: SPIDER_EYES
+
+ - spiderEyes
+	by Wessexstock
+	"by Raziel_DSM"
+
+
+
+
+:::: SQUID
+
+ - squid
+	by Wessexstock
+	"Alt by SpitfireBro"
+
+
+
+
+:::: WOLF
+
+ - wolf
+	by Wessexstock
+	"By%20Husono"
+
+
+
+
+:::: WOLF_ANGRY
+
+ - wolfAngry
+	by Wessexstock
+	"By%20Husono"
+
+
+
+
+:::: WOLF_TAME
+
+ - wolfTamed
+	by Wessexstock
+	"By%20Husono"
+
+
+
+
+:::: ZOMBIE
+
+ - zombie
+	by Wessexstock
+	"By WessexStock"
+
+
+
+
+:::: PACK
+
+ - packPortrait
+	by Wessexstock
+	"Dokucraft - High"
+
+
+
+
+:::: PARTICLES
+
+ - arrowTrail
+	by Wessexstock
+	"'By%20%20Zomeraktii'"
+
+ - smoke
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - potionParticles_1
+	by Wessexstock
+	"'Upscaled Default - By Priox'"
+
+ - enchantingRunes
+	by Wessexstock
+	"'High%20-%20By%20Husono'"
+
+ - waterDrops
+	by Wessexstock
+	"'Minecraft Default?'"
+
+ - potionParticles_2
+	by Wessexstock
+	"'Upscaled Default - By Priox'"
+
+ - hook
+	by Wessexstock
+	"'High%20-%20by%20Wantedrobot'"
+
+ - unknownParticle
+	by Wessexstock
+	"'Upscaled%20Original%20-%20By%20MrTinoLP'"
+
+ - bubble
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - liquidDrip
+	by Wessexstock
+	"'By%20MrTinoLP'"
+
+ - flame
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - heart
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - musicNote
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - rainDroplets
+	by Wessexstock
+	"'Dokucraft Light'"
+
+
+
+
+:::: TERRAIN
+
+ - dirt
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - stone
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - cobblestone
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - sideDirt
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - enderPortal
+	by Wessexstock
+	"'Fiery%20Iris%20-%20By%20SerAaron'"
+
+ - stoneBrick
+	by Draktonius853
+	"'FrIkY_/Deolrin/LTK1'"
+
+ - pumpkin
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - repeater
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - netherrack
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - pinkWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - shroomySideDirt
+	by Wessexstock
+	"'High%20by%20Schorl%20//%20WessexStock'"
+
+ - lightGreenWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - cauldron
+	by Wessexstock
+	"'By%20DarkDefender'"
+
+ - ironDoor
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - lillyPad
+	by Wessexstock
+	"'By%20Zomeraktii'"
+
+ - furnace
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - woodTop
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - mobSpawner
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - craftingTable
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - sugarcane
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - bookshelf
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - rose
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - shrub
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - poweredRail
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - piston
+	by Wessexstock
+	"'High%20-%20High-Slime%20alt%20by%20Noodaa'"
+
+ - redMushroomTop
+	by Draktonius853
+	"'by DarkDefender'"
+
+ - magentaWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - oreIron
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - netherBrick
+	by Wessexstock
+	"'By%20Zomeraktii'"
+
+ - vines
+	by Wessexstock
+	"'High%20Uncredited'"
+
+ - glass
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - wool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - melon
+	by Wessexstock
+	"'High By Reubenx'"
+
+ - cyanWool
+	by Wessexstock
+	"'DokuCraft%20High'"
+
+ - tilledSoil
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - brick
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - sand
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - sideGrass
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - mossyCobblestone
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - jukebox
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - melonStalks
+	by Wessexstock
+	"'Biome%20Relative%20-%20By%20AwesomeSauceUK'"
+
+ - glowstone
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - yellowWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - glassPane
+	by Wessexstock
+	"'High%20-%20Uncredited'"
+
+ - ice
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - dandelion
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - tnt
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - smallBrownMushroom
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - sandstone
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - snow
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - stoneCrackedBrick
+	by Duruznik
+	"'FrIkY_/Deolrin/LTK1'"
+
+ - purpleWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - noteblock
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - ladder
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - netherWart
+	by Wessexstock
+	"'By%20Schorl'"
+
+ - goldBlock
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - townBorder
+	by Wessexstock
+	"'Minecraft%20Default'"
+
+ - deadShrub
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - torch
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - brownMushroomTop
+	by Draktonius853
+	"'by%20DarkDefender'"
+
+ - brownWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - sapling
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - mushroomStem
+	by Wessexstock
+	"'By%20ReubenX'"
+
+ - tallGrass
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - rail
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - cake
+	by Wessexstock
+	"'By Alexium'"
+
+ - dragonEgg
+	by Wessexstock
+	"'By SerAaron'"
+
+ - obsidian
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - lapisBlock
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - oreGold
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - DetectorRail
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - trapDoor
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - cactus
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - bed
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - stoneVinyBrick
+	by Duruznik
+	"'FrIkY_/Deolrin/LTK1'"
+
+ - smallRedMushroom
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - orangeWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - web
+	by Wessexstock
+	"'By%20Zomeraktii'"
+
+ - oreLapis
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - enderStone
+	by Wessexstock
+	"'By%20SerAaron'"
+
+ - lava
+	by Wessexstock
+	"'Do as it says'"
+
+ - gravel
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - diamondBlock
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - wheat
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - chest
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - sideSnow
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - bedrock
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - oreRedstone
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - pineFoliage
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - lever
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - ironBars
+	by Wessexstock
+	"'By%20DarkDefender'"
+
+ - mushroomGills
+	by Draktonius853
+	"'by DarkDefender'"
+
+ - water
+	by Wessexstock
+	"'Do as it says'"
+
+ - grayWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - oreDiamond
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - wood
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - breakAnimation
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - clay
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - soulSand
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - birchSapling
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - redstoneTorch
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - birchWood
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - pineSapling
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - grass
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - lightBlueWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - greenWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - foliage
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - woodDoor
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - redstoneWire
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - oreCoal
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - blackWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - redWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - pineWood
+	by Wessexstock
+	"'Dokucraft High'"
+
+ - shroomyGrass
+	by Wessexstock
+	"'High%20by%20Schorl%20//%20WessexStock'"
+
+ - fire
+	by Wessexstock
+	"'Dokucraft%20Light'"
+
+ - lightGrayWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - enchantingTable
+	by Wessexstock
+	"'High%20-%20By%20Handsome%20Dan'"
+
+ - ironBlock
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - brewingStand
+	by Wessexstock
+	"'High%20-%20By%20Jade%20Knightblazer'"
+
+ - dispenser
+	by Wessexstock
+	"'Dokucraft - High'"
+
+ - woodPlank
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - sponge
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - stoneSlab
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - blueWool
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+
+
+
+:::: MCLOGO
+
+ - mainMenuTitle
+	by Wessexstock
+	"'By%20SpinBuilder'"
+
+
+
+
+:::: DIAL
+
+ - clockDial
+	by Wessexstock
+	"'By%20Alvry'"
+
+
+
+
+:::: FOLIAGECOLOR
+
+ - foliageGradient
+	by Wessexstock
+	"'DokuCraft - High'"
+
+
+
+
+:::: GRASSCOLOR
+
+ - grassGradient
+	by Wessexstock
+	"'DokuCraft - High'"
+
+
+
+
+:::: PUMPKINBLUR
+
+ - pumpkinBlur
+	by Wessexstock
+	"by Dubca7"
+
+
+
+
+:::: SHADOW
+
+ - itemShadow
+	by Wessexstock
+	"Minecraft%20Default"
+
+
+
+
+:::: VIGNETTE
+
+ - vignette
+	by Wessexstock
+	"Dokucraft%20Light"
+
+
+
+
+:::: WATER
+
+ - underwaterOverlay
+	by Wessexstock
+	"Dokucraft - High"
+
+
+
+
+:::: ARROWS
+
+ - arrows
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: BOAT
+
+ - boat
+	by Wessexstock
+	"Dokucraft%20High"
+
+
+
+
+:::: CART
+
+ - minecart
+	by Wessexstock
+	"Dokucraft - High"
+
+
+
+
+:::: SIGN
+
+ - sign
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: BACKGROUND
+
+ - mainMenuBackground
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+
+
+
+:::: CONTAINER
+
+ - chestCanopy
+	by Wessexstock
+	"'High%20-%20By%20WantedRobot'"
+
+
+
+
+:::: CRAFTING
+
+ - craftingCanopy
+	by Wessexstock
+	"'High%20-%20By%20WantedRobot'"
+
+
+
+
+:::: FURNACE
+
+ - furnaceCanopy
+	by Wessexstock
+	"'High By WantedRobot'"
+
+
+
+
+:::: GUI
+
+ - equipBar
+	by Wessexstock
+	"'High Alt by WantedRobot'"
+
+ - equipCursor
+	by Wessexstock
+	"'High Alt by WantedRobot'"
+
+ - menuButtons
+	by Wessexstock
+	"'High Alt by WantedRobot'"
+
+
+
+
+:::: ICONS
+
+ - targetingReticle
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - hardcoreHealthBar
+	by Wessexstock
+	"'Mortality is REAL - By WessexStock'"
+
+ - armorBar
+	by Wessexstock
+	"'Dokucraft%20Light'"
+
+ - enderDragonHealth
+	by Duruznik
+	"'Light by Jade Knightblazer'"
+
+ - experienceBar
+	by Duruznik
+	"'High by Jade Knightblazer'"
+
+ - healthBar
+	by Wessexstock
+	"'1.9 proper format By LTK1'"
+
+ - serverConnection
+	by Draktonius853
+	"'By%20dubca7%20/Lil_Jening'"
+
+ - hungerBar
+	by Wessexstock
+	"'1.9 proper format By LTK1'"
+
+ - bubbleParticles
+	by Wessexstock
+	"'Dokucraft Light'"
+
+
+
+
+:::: INVENTORY
+
+ - inventoryCanopy
+	by Wessexstock
+	"'High%20-%20By%20HienkyakuX'"
+
+
+
+
+:::: ITEMS
+
+ - signIcon
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - gunpowder
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - splashPotion
+	by Wessexstock
+	"'By%20Manscho%20Panscho'"
+
+ - coal
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - goldSword
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - hoes
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - goldArmorIcon
+	by Wessexstock
+	"'Vibrant%20-%20by%20Lordofsax'"
+
+ - snowBall
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - ingot
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - bowAnimation
+	by Wessexstock
+	"'High%20Recolor%20by%20CCCode'"
+
+ - compass
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - fermentedSpiderEye
+	by Wessexstock
+	"'By%20Schorl'"
+
+ - apple
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - goldAxe
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - shears
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - woodSword
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - ironArmorIcon
+	by Wessexstock
+	"'Light Iron by Foodstamp'"
+
+ - chainArmorIcon
+	by Duruznik
+	"'High Chainmail by CCCode'"
+
+ - stick
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - leather
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - repeaterIcon
+	by Wessexstock
+	"'High - by Wantedrobot'"
+
+ - cookie
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - spiderEye
+	by Wessexstock
+	"'By%20Schorl'"
+
+ - artIcon
+	by Wessexstock
+	"'Dokucraft%20Light'"
+
+ - glisteringMelon
+	by Wessexstock
+	"'By%20Priox'"
+
+ - stoneSword
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - magmaCream
+	by Wessexstock
+	"'By%20SerAaron'"
+
+ - minecartChestIcon
+	by Wessexstock
+	"'High%20-%20by%20Cpt_Punch'"
+
+ - string
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - leatherArmorIcon
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - melonSlice
+	by Wessexstock
+	"'By Noodaa'"
+
+ - potionLiquid
+	by Wessexstock
+	"'By%20ManschoPanscho'"
+
+ - arrowIcon
+	by Wessexstock
+	"'High%20-%20by%20CCCode'"
+
+ - dye
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - rottenFlesh
+	by Wessexstock
+	"'By%20Noodaa'"
+
+ - bone
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - stoneAxe
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - enderEye
+	by Wessexstock
+	"'Fiery%20Iris%20-%20By%20ReubenX'"
+
+ - boatIcon
+	by Duruznik
+	"'High - by CCCode // Duru'"
+
+ - minecartFurnaceIcon
+	by Wessexstock
+	"'High%20-%20by%20Cpt_Punch'"
+
+ - sugar
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - glowstoneDust
+	by Wessexstock
+	"'High%20-%20NoobCrafter14'"
+
+ - mapIcon
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - book
+	by Wessexstock
+	"'High%20-%20By%20CCCode'"
+
+ - egg
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - beef
+	by Wessexstock
+	"'by%20Aceofhrts97'"
+
+ - bowl
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - blazePowder
+	by Wessexstock
+	"'By%20Aceofhrts97'"
+
+ - woodDoorIcon
+	by Wessexstock
+	"'Dokucraft High by fish2'"
+
+ - minecartIcon
+	by Wessexstock
+	"'High%20-%20by%20Cpt_Punch'"
+
+ - diamondAxe
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - ghastFireball
+	by Wessexstock
+	"'By%20ReubenX'"
+
+ - bedIcon
+	by Wessexstock
+	"'High%20-%20by%20dubca7'"
+
+ - cakeIcon
+	by Wessexstock
+	"'By Alexium'"
+
+ - sugarcaneIcon
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - diamondSword
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - paper
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - pork
+	by Wessexstock
+	"'By Duru // Kerii'"
+
+ - feather
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - bow
+	by Wessexstock
+	"'High%20by%20Aceofhrts97'"
+
+ - bread
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - chickenMeat
+	by Wessexstock
+	"'By%20DarkDefender'"
+
+ - ironDoorIcon
+	by Wessexstock
+	"'Dokucraft High by fish2'"
+
+ - blazeStick
+	by Draktonius853
+	"'Ringed%20by%20seanfletchr'"
+
+ - wheatIcon
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - quiver
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - ironSword
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - fish
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - diamondArmorIcon
+	by Wessexstock
+	"'Open%20Face%20Rework%20by%20Lordofsax'"
+
+ - buckets
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - woodAxe
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - fishingPoleNoWire
+	by Draktonius853
+	"'Light%20-%20ManschoPanscho//WantedRobot'"
+
+ - ironAxe
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+ - saddleIcon
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - diamondGem
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - chunkOfSomething
+	by Wessexstock
+	"'By%20PrinZord'"
+
+ - flint
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - enderPearl
+	by Wessexstock
+	"'by%20Reubenx'"
+
+ - netherWartSeeds
+	by Wessexstock
+	"'By%20Dubca7'"
+
+ - ghastTear
+	by Wessexstock
+	"'By Duru'"
+
+ - clayBall
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - glassBottle
+	by Wessexstock
+	"'By%20Aceofhrts97'"
+
+ - slimeBall
+	by Wessexstock
+	"'High%20-%20By%20Noodaa'"
+
+ - brewingStandIcon
+	by Wessexstock
+	"'High%20-%20By%20Jade%20Knightblazer'"
+
+ - fishingPole
+	by Draktonius853
+	"'Light%20-%20ManschoPanscho//WantedRobot'"
+
+ - pickaxes
+	by Wessexstock
+	"'High%20alt%20by%20Handsome_Dan'"
+
+ - pumpkinSeeds
+	by Wessexstock
+	"'Uncredited%2C%20sorry%21'"
+
+ - seeds
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - redstoneDust
+	by Wessexstock
+	"'Dokucraft%20High'"
+
+ - flint_N_Steel
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - melonSeeds
+	by Wessexstock
+	"'By%20Reubenx'"
+
+ - clock
+	by Wessexstock
+	"'Dokucraft Light'"
+
+ - cauldronIcon
+	by Wessexstock
+	"'By%20Lordofsax'"
+
+ - records
+	by Wessexstock
+	"'By%20Issak_Dieter'"
+
+ - shovels
+	by Wessexstock
+	"'High alt by Handsome_Dan'"
+
+
+
+
+:::: SLOT
+
+ - slot
+	by Wessexstock
+	"'High%20-%20By%20HienkyakuX'"
+
+
+
+
+:::: TRAP
+
+ - dispenserCanopy
+	by Wessexstock
+	"'High%20Alt%20by%20WantedRobot'"
+
+
+
+
+:::: DEFAULT
+
+ - font
+	by Wessexstock
+	"Golden%20Ink%20by%20Spinbuilder"
+
+
+
+
+:::: CLOUDS
+
+ - clouds
+	by Wessexstock
+	"By InsaneLaughing"
+
+
+
+
+:::: RAIN
+
+ - rainFall
+	by Wessexstock
+	"High%20-%20Garret"
+
+
+
+
+:::: SNOW
+
+ - snowFall
+	by Wessexstock
+	"Dokucraft Light"
+
+
+
+
+:::: KZ
+
+ - art_2x1_2
+	by Wessexstock
+	"'High%20-%20Local%20Landscape%20by%20weekyZ'"
+
+ - art_1x1_3
+	by Wessexstock
+	"'High%20-%20Fire%20-%20PixelJoint'"
+
+ - art_2x1_5
+	by Wessexstock
+	"'High%20-%20Local%20Bridge%20by%20weekyZ'"
+
+ - art_1x1_4
+	by Wessexstock
+	"'High%20-%20River%20by%20Handsome_Dan'"
+
+ - art_1x1_5
+	by Wessexstock
+	"'High%20-%20Pink%20Cloudscape%20by%20weekyZ'"
+
+ - art_2x2_2
+	by Wessexstock
+	"'High%20-%20Landscape%20by%20Smuecke'"
+
+ - art_1x1_6
+	by Wessexstock
+	"'High%20-%20Blue%20Landscape%20by%20weekyZ'"
+
+ - art_2x2_3
+	by Wessexstock
+	"'High%20-%20Snowww%20-%20PixelJoint'"
+
+ - artBacking
+	by Wessexstock
+	"'Blank (works best with non-paintings)'"
+
+ - art_1x1_1
+	by Wessexstock
+	"'High%20-%20Local%20River%20View%20by%20weekyZ'"
+
+ - art_2x2_5
+	by Wessexstock
+	"'High%20-%20The%20Path%20-%20JunkyArt%20-%20PixelJo'"
+
+ - art_4x4_1
+	by Wessexstock
+	"'Underwater%20-%20Luther%20-%20PixelJoint'"
+
+ - art_2x2_4
+	by Wessexstock
+	"'High%20-%20Hot%20Out%20Here%20-%20By%20Dotty_d'"
+
+ - art_4x4_3
+	by Wessexstock
+	"'Scheissgrotte%20-%20Schrumpfkopf%20-%20PixelJoint'"
+
+ - art_2x1_4
+	by Wessexstock
+	"'High%20-%20Sepia%20Bridge%20by%20weekyZ'"
+
+ - art_4x2
+	by Wessexstock
+	"'(High) by Malliya '"
+
+ - art_4x3_2
+	by Wessexstock
+	"'High-Res%20Originals%20compiled%20by%20dubca7'"
+
+ - art_4x4_2
+	by Wessexstock
+	"'Forest%20-%20Jaeden%20-%20PixelJoint'"
+
+ - art_2x1_3
+	by Wessexstock
+	"'High%20-%20Graves%20by%20Handsome_Dan'"
+
+ - art_4x3_1
+	by Wessexstock
+	"'High-Res%20Originals%20compiled%20by%20dubca7'"
+
+ - art_1x1_7
+	by Wessexstock
+	"'High%20-%20Stars%20by%20Handsome_Dan'"
+
+ - art_1x2_2
+	by Wessexstock
+	"'High Banner by D00med'"
+
+ - art_2x1_1
+	by Wessexstock
+	"'High%20-%20Friedrich%20Landscape%20by%20weekyZ'"
+
+ - art_1x1_2
+	by Wessexstock
+	"'High%20-%20Big%20Tree%20-%20PixelJoint'"
+
+ - art_2x2_1
+	by Wessexstock
+	"'High%20-%20Howl%20-%20Sera%20-%20PixelJoint'"
+
+ - art_1x2_1
+	by Wessexstock
+	"'High Banner by D00med'"
+
+
+
+
+:::: BG
+
+ - achievementBG
+	by Wessexstock
+	"High Alt by WantedRobot"
+
+
+
+
+:::: CHAIN_1
+
+ - chainChestplate
+	by Duruznik
+	"'High Chainmail by Lordofsax'"
+
+ - chainBoots
+	by Duruznik
+	"'High%20-%20By%20Lordofsax'"
+
+ - chainHelmet
+	by Duruznik
+	"'High Chainmail by Lordofsax'"
+
+
+
+
+:::: CHAIN_2
+
+ - chainLeggings
+	by Duruznik
+	"'High Chainmail by Lordofsax'"
+
+
+
+
+:::: CLOTH_1
+
+ - leatherChestplate
+	by Wessexstock
+	"'Light Leather - Sleeves/Gloves alt by Aceofhrts97'"
+
+ - leatherBoots
+	by Wessexstock
+	"'Dokucraft Light - Leather'"
+
+ - leatherHelmet
+	by Wessexstock
+	"'Dokucraft Light - Leather'"
+
+
+
+
+:::: CLOTH_2
+
+ - leatherLeggings
+	by Wessexstock
+	"'Dokucraft Light - Leather'"
+
+
+
+
+:::: DIAMOND_1
+
+ - diamondBoots
+	by Wessexstock
+	"'Diamond By Lordofsax'"
+
+ - diamondChestplate
+	by Wessexstock
+	"'Diamond Without Sleeves By Lordofsax'"
+
+ - diamondHelmet
+	by Wessexstock
+	"'Open Face Diamond By Lordofsax'"
+
+
+
+
+:::: DIAMOND_2
+
+ - diamondLeggings
+	by Wessexstock
+	"'Diamond By Lordofsax'"
+
+
+
+
+:::: GOLD_1
+
+ - goldChestplate
+	by Wessexstock
+	"'Vibrant Gold - By Lordofsax // Jade Knightblazer'"
+
+ - goldBoots
+	by Wessexstock
+	"'Vibrant%20-%20by%20Lordofsax'"
+
+ - goldHelmet
+	by Wessexstock
+	"'Vibrant Gold Twice-Gemmed - by Lordofsax'"
+
+
+
+
+:::: GOLD_2
+
+ - goldLeggings
+	by Wessexstock
+	"'Vibrant Gold by Lordofsax'"
+
+
+
+
+:::: IRON_2
+
+ - ironLeggings
+	by Wessexstock
+	"'Light Iron by Foodstamp'"
+
+
+
+
+:::: IRON_1
+
+ - ironChestplate
+	by Wessexstock
+	"'Light Iron by Foodstamp'"
+
+ - ironBoots
+	by Wessexstock
+	"'Light Iron by Foodstamp'"
+
+ - ironHelmet
+	by Wessexstock
+	"'Light Iron by Foodstamp'"
+
+
+
+
+:::: POWER
+
+ - electricField
+	by Wessexstock
+	"By%20fish2"
+
+
+
+
+:::: MAPBG
+
+ - mapCanvas
+	by Wessexstock
+	"Dokucraft%20High%20by%20HienkyakuX"
+
+
+
+
+:::: MAPICONS
+
+ - mapSymbols
+	by Wessexstock
+	"'Uncredited'"
+
+
+
+
+:::: CUSTOM_WATER_STILL
+
+ - waterStill
+	by Wessexstock
+	"'Dokucraft - High'"
+
+
+
+
+:::: CUSTOM_LAVA_STILL
+
+ - lavaStill
+	by Wessexstock
+	"'Dokucraft Light'"
+
+
+
+
+:::: CUSTOM_LAVA_FLOWING
+
+ - lavaFlowing
+	by Wessexstock
+	"'Dokucraft Light'"
+
+
+
+
+:::: CUSTOM_WATER_FLOWING
+
+ - waterFlowing
+	by Wessexstock
+	"'Dokucraft - High'"
+
+
+
+
+:::: SILVERFISH
+
+ - silverfish
+	by Wessexstock
+	"Stone-Eater%20Maggot%20by%20Wessexstock"
+
+
+
+
+:::: CUSTOM_FIRE_E_W
+
+ - fireEW
+	by Wessexstock
+	"'by%20fish2'"
+
+
+
+
+:::: CUSTOM_FIRE_N_S
+
+ - fireNS
+	by Wessexstock
+	"'by%20fish2'"
+
+
+
+
+:::: CUSTOM_PORTAL
+
+ - portalEventHorizon
+	by Wessexstock
+	"'by%20fish2'"
+
+
+
+
+:::: FISH_GLOW3
+
+ - F_FishGlow_3
+	by Wessexstock
+	"Clownfish by lordofsax"
+
+
+
+
+:::: FISHYMOB3
+
+ - F_Fishy_3
+	by Wessexstock
+	"Clownfish by lordofsax"
+
+
+
+
+:::: PANORAMA5
+
+ - panorama5
+	by Wessexstock
+	"'Pine%20Landscape%20By%20Wessexstock'"
+
+
+
+
+:::: PANORAMA4
+
+ - panorama4
+	by Wessexstock
+	"'Pine%20Landscape%20By%20Wessexstock'"
+
+
+
+
+:::: CTM
+
+ - CTM_Glass
+	by Wessexstock
+	"'High CTM v3 by Doku'"
+
+ - CTM_Bookshelf
+	by Wessexstock
+	"'High CTM v3 by Doku'"
+
+ - CTM_Sandstone
+	by Wessexstock
+	"'High CTM v3 by Doku'"
+
+
+
+
+:::: PANORAMA3
+
+ - panorama3
+	by Wessexstock
+	"'Pine%20Landscape%20By%20Wessexstock'"
+
+
+
+
+:::: PANORAMA2
+
+ - panorama2
+	by Wessexstock
+	"'Pine%20Landscape%20By%20Wessexstock'"
+
+
+
+
+:::: PANORAMA1
+
+ - panorama1
+	by Wessexstock
+	"'Pine%20Landscape%20By%20Wessexstock'"
+
+
+
+
+:::: PANORAMA0
+
+ - panorama0
+	by Wessexstock
+	"'Pine%20Landscape%20By%20Wessexstock'"
+
+
+
+
+:::: PARTICLEFIELD
+
+ - particleField
+	by Wessexstock
+	"'By%20fish2'"
+
+
+
+
+:::: EXPLOSION
+
+ - explosion
+	by Wessexstock
+	"Flames%20By%20straxael"
+
+
+
+
+:::: XPORB
+
+ - XP_Orbs
+	by Wessexstock
+	"High%20Runes%20-%20By%20Jade%20Knightblazer"
+
+
+
+
+:::: LARGECHEST
+
+ - largeChestWrapper
+	by Wessexstock
+	"High%20-%20by%20HienkyakuX"
+
+
+
+
+:::: CHEST
+
+ - chestWrapper
+	by Wessexstock
+	"High%20-%20by%20HienkyakuX"
+
+
+
+
+:::: ALLITEMS
+
+ - allItemsCanopy
+	by Wessexstock
+	"'High%20-%20By%20WantedRobot'"
+
+
+
+
+:::: ENDERMAN_EYES
+
+ - endermanEyes
+	by Wessexstock
+	"High%20-%20By%20WessexStock"
+
+
+
+
+:::: ENDERMAN
+
+ - enderman
+	by Wessexstock
+	"High%20-%20By%20WessexStock"
+
+
+
+
+:::: CAVESPIDER
+
+ - caveSpider
+	by Wessexstock
+	"Alt by TWiiSt3D"
+
+
+
+
+:::: ALTERNATE
+
+ - fontAlternate
+	by Wessexstock
+	"'By Straxael'"
+
+
+
+
+:::: PRIEST
+
+ - priest
+	by Draktonius853
+	"by%20Noodaa"
+
+
+
+
+:::: LIBRARIAN
+
+ - librarian
+	by Draktonius853
+	"by%20Noodaa"
+
+
+
+
+:::: VILLAGER2
+
+ - villager
+	by Draktonius853
+	"by%20Noodaa"
+
+
+
+
+:::: SMITH
+
+ - blacksmith
+	by Draktonius853
+	"by%20Noodaa"
+
+
+
+
+:::: FARMER
+
+ - farmer
+	by Draktonius853
+	"by%20Noodaa"
+
+
+
+
+:::: BUTCHER
+
+ - butcher
+	by Draktonius853
+	"by%20Noodaa"
+
+
+
+
+:::: FIRE
+
+ - blaze
+	by Wessexstock
+	"By ManschoPanscho"
+
+
+
+
+:::: LAVA
+
+ - magmaCube
+	by Wessexstock
+	"By%20KingPhantom"
+
+
+
+
+:::: REDCOW
+
+ - redCow
+	by Draktonius853
+	"By%20Noodaa"
+
+
+
+
+:::: SNOWMAN
+
+ - snowman
+	by Wessexstock
+	"By%20Zomeraktii"
+
+
+
+
+:::: ALCHEMY
+
+ - alchemyCanopy
+	by Wessexstock
+	"'High - By MrXombii'"
+
+
+
+
+:::: ENCHANT
+
+ - enchantingCanopy
+	by Wessexstock
+	"'High%20-%20By%20HienkyakuX'"
+
+
+
+
+:::: BOOK
+
+ - enchantingBook
+	by Wessexstock
+	"'High%20-%20By%20Handsome%20Dan'"
+
+
+
+
+:::: GLINT
+
+ - glint
+	by Wessexstock
+	"'By%20ManschoPanscho'"
+
+
+
+
+:::: TUNNEL
+
+ - tunnel
+	by Duruznik
+	"'By ReubenX'"
+
+
+
+
+:::: MOON_PHASES
+
+ - moonPhases
+	by Wessexstock
+	"Tilted%20by%20Winddelay"
+
+
+
+
+:::: ENDER
+
+ - enderDragon
+	by Wessexstock
+	"By%20OttoLrt"
+
+
+
+
+:::: ENDER_EYES
+
+ - EnderEyes
+	by Wessexstock
+	"By%20ChAnKoEr"
+
+
+
+
+:::: CRYSTAL
+
+ - crystal
+	by Wessexstock
+	"By%20nameless023"
+
